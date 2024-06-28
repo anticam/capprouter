@@ -1,0 +1,5 @@
+{
+    "welcomeFile": "/capapprouterhtml5/index.html",
+    "authenticationMethod": "route",
+    "routes": []
+}
